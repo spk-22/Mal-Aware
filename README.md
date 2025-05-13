@@ -13,9 +13,8 @@ This project implements a machine learning model for classifying software as eit
 
 ## Dataset
 
-The dataset used in this project contains information about system processes, with features such as process counts, memory usage, loaded libraries (DLLs), handles, and more. The dataset is labeled to indicate whether a process or system state is benign or associated with malware.
+The CICIDS-2017 dataset used in this project contains information about system processes, with features such as process counts, memory usage, loaded libraries (DLLs), handles, and more. The dataset is labeled to indicate whether a process or system state is benign or associated with malware.
 
-**(If you can/want to mention the source of the Kaggle dataset, do so here, e.g.: "The dataset was obtained from [Kaggle Dataset Name/Link].")**
 
 ## Methodology
 

@@ -1,6 +1,5 @@
 # Mal-Aware
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Overview
 
 This project implements a machine learning model for classifying software as either benign or malicious based on its system process behavior. By analyzing various features derived from running processes, the model aims to provide an effective method for identifying malware.

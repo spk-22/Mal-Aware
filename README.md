@@ -25,7 +25,7 @@ The project typically involves the following steps:
 3.  **Model Selection:** Choosing an appropriate machine learning model for classification (e.g., Neural Network, Random Forest, Gradient Boosting).
 4.  **Model Training:** Training the selected model on the preprocessed data.
 5.  **Model Evaluation:** Assessing the performance of the trained model using appropriate metrics (e.g., accuracy, precision, recall, F1-score, confusion matrix, AUC-ROC).
-6.  (Optional: Model Interpretation): Understanding which features are most important for the model's predictions.
+
 
 ## Code Structure
 
@@ -37,7 +37,7 @@ The project typically involves the following steps:
 * `README.md`: This file.
 * `requirements.txt`: (Optional) Lists the Python libraries required to run the code.
 
-## Requirements
+## Requirements - Python libraries:
 
 * Python 3.x
 * pandas

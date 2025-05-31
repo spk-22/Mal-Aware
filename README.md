@@ -31,11 +31,11 @@ The project typically involves the following steps:
 
 *(Provide a brief overview of the files in your repository, e.g.,)*
 
-* `malware_classification.ipynb` (or `.py`): Contains the main code for data loading, preprocessing, model training, and evaluation.
+* `malware_classification.py` : Contains the main code for data loading, preprocessing, model training, and evaluation.
 * `data/`: (Optional) Directory to store the dataset (ensure you don't commit large datasets directly).
 * `models/`: (Optional) Directory to save trained model files.
 * `README.md`: This file.
-* `requirements.txt`: (Optional) Lists the Python libraries required to run the code.
+* `models.py`,`utils.py`,`web-app.py`: Visual Interface to load files and check model predictions, evaluation, accuracy metrics and reasoning.
 
 ## Requirements - Python libraries:
 
@@ -43,7 +43,7 @@ The project typically involves the following steps:
 * pandas
 * numpy
 * scikit-learn
-* (Potentially other libraries depending on your model choice, e.g., TensorFlow, PyTorch, XGBoost)
+* (Potentially other libraries e.g., TensorFlow, PyTorch, XGBoost)
 
 **(If you have a `requirements.txt` file, mention it here and how to install dependencies.)**
 

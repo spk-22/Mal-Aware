@@ -31,9 +31,9 @@ The project typically involves the following steps:
 
 *(Provide a brief overview of the files in your repository, e.g.,)*
 
-* `malware_classification.py` : Contains the main code for data loading, preprocessing, model training, and evaluation.
-* `data/`: (Optional) Directory to store the dataset (ensure you don't commit large datasets directly).
-* `models/`: (Optional) Directory to save trained model files.
+* `malware.py` : Contains the main code for data loading, preprocessing, model training, and evaluation.
+* `malware_model.pth` : The trained model with model weights in .pth format.
+* `sampling_comparison_simluation.html`: To visulaize the difference between casual sampling and random sampling.
 * `README.md`: This file.
 * `models.py`,`utils.py`,`web-app.py`: Visual Interface to load files and check model predictions, evaluation, accuracy metrics and reasoning.
 
